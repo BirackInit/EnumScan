@@ -9,5 +9,5 @@ Un outil de scan réseau basé sur nmap pour détecter les hôtes actifs, scanne
 ## Installation
 1. Clonez le dépôt :
    ```bash
-https://github.com/BirackInit/EnumScan.git
-cd EnumScan
+   https://github.com/BirackInit/EnumScan.git
+   cd EnumScan
